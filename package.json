@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/luoyjx/js-tree-extra#readme",
   "devDependencies": {
-    "mocha": "^2.5.3"
+    "mocha": "^3.3.0"
   },
   "dependencies": {
     "js-tree": "^1.1.0"
